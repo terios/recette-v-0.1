@@ -1,6 +1,9 @@
 /**
  * Created by terios on 10/2/14.
  */
+
+'use strict';
+
 // app/models/user.js
 // load the things we need
 var mongoose = require('mongoose');
